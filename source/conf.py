@@ -17,3 +17,5 @@ exclude_patterns = []
 language = 'fr'
 html_theme = 'sphinx_rtd_theme'
 source_encoding = 'utf-8-sig'
+# Définir le README comme page d'accueil principale
+master_doc = 'README'
