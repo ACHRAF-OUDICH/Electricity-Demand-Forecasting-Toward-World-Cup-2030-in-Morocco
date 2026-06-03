@@ -29,3 +29,7 @@ nbconvert>=7.0.0
 tqdm>=4.65.0                  # Progress bars
 python-dateutil>=2.8.0
 pytz>=2023.3
+
+# Documentation extensions
+myst-parser>=2.0.0
+sphinx-rtd-theme>=2.0.0

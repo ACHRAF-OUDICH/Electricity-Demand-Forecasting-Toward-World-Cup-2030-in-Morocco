@@ -6,6 +6,7 @@ copyright = '2026, Younes Chajara & Achraf Oudich'
 author = 'Younes Chajara & Achraf Oudich'
 release = 'latest'
 
+# Utiliser myst_parser pour le support du Markdown
 extensions = [
     'myst_parser',
 ]
