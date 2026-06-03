@@ -134,7 +134,7 @@ To evaluate transfer quality, the pipeline performs **Leave-One-Out (LOO) cross-
 |:--------|:-----------|:-------------|:----------------------:|:--------------------:|
 | **Qatar (QAT)** | FIFA World Cup 2022 | November 2022 | ~3,500–5,000 | ✅ Strong |
 | **Russia (RUS)** | FIFA World Cup 2018 | June 2018 | ~85,000–95,000 | ⚠️ Weak |
-| **South Africa (ZAF)** | FIFA World Cup 2010 | June 2010 | ~18,000–22,000 | ⚠️ Moderate |
+| **South Africa (ZAF)** | FIFA World Cup 2010 | June 2010 | ~18,000–22,000 | ✅ Strong |
 | **Egypt (EGY)** | AFCON 2019 | June 2019 | ~14,000–18,000 | ✅ Moderate |
 | **Cameroon (CMR)** | AFCON 2022 | January 2022 | ~600–800 | ✅ Moderate |
 
