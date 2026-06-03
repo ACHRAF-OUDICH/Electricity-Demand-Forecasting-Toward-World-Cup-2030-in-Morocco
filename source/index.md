@@ -1,3 +1,0 @@
-# Documentation
-
-```{include} ../README.md
