@@ -5,6 +5,7 @@ build:
   tools:
     python: "3.11"
 
+# Indiquer explicitement à Sphinx où se trouve son fichier de configuration
 sphinx:
   configuration: source/conf.py
 
