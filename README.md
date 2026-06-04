@@ -1,5 +1,5 @@
 <div align="center">
-<h1>📚 DOCUMENTATION OFFICIELLE DU PROJET</h1>
+<h2>📚 DOCUMENTATION OFFICIELLE DU PROJET</h2>
 
 <h2>🔗 <a href="https://forecasting-morocco-s-electricity-demand-for-fifaworldcup2030.readthedocs.io/en/latest/overview.html" target="_blank">CLIQUEZ ICI POUR ACCÉDER AU RAPPORT EN LIGNE</a></h2>
 
